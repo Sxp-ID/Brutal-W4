@@ -7,15 +7,15 @@ Script termux spam chat wangsaf terbaru !
 $ git clone https://github.com/Sxp-ID/Brutal-W4
 $ cd Brutal-W4
 $ make install
-$ make run
+$ ./main
 
 Atau bisa juga run script nya dg ketik perintah
-$ ./main
+$ make run
 ```
 </details>
 
 ## Full tutorialnya?
-- Link video <code><a href="">klik disini</a></code>
+- Link video <code><a href="https://youtu.be/xgbzAI2qPR4?si=F2cdURIIiI9t93Sx">klik disini</a></code>
 - Subs yt admin <code><a href="https://youtube.com/@freetutorialofficial?si=9hamt4Px2gXzPY9x">FREE TUTORIAL</a></code>
 <div align="center">
 
