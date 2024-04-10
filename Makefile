@@ -1,7 +1,7 @@
 install:
 	@clear
 	apt-get install bash curl wget jq
-	apt-get install python python-pip clang
+	apt-get install python python-pip nano clang
 	python -m pip install -r data/requirements.txt
 	@gcc main.c -o main
 	@clear
