@@ -1,4 +1,8 @@
-# Brutal WA
+Welcome
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
+# Brutal-WA
 Script termux spam chat wangsaf terbaru !
 
 <details open><summary><code>Perintah Script?</code></summary>
@@ -20,4 +24,5 @@ $ make run
 <div align="center">
 
 ### Jgn lupa kasih star masbro !
+
 </div>
