@@ -1,5 +1,4 @@
 fake-useragent
-pycryptodome
 requests
 rich
 bs4
