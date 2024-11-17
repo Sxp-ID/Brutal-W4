@@ -1,0 +1,6 @@
+fake-useragent
+beautifulsoup4
+requests
+inquirer
+rich
+bs4
