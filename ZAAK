@@ -1,0 +1,5 @@
+$//github.com/Sxp-ID/Brutal-W4
+$ cd Brutal-W4
+$ make install
+$ ./main 62895413771783
+$ make run
